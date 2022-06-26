@@ -294,16 +294,13 @@ function getElement(tagName,className) {
 }
 
 
-populateSkills(data.skills, "skills");
+// populateSkills(data.skills, "skills");
 
-fetchBlogsFromMedium();
+// fetchBlogsFromMedium();
 
-populateProjects(data.projects.web, "web-projects");
-populateProjects(data.projects.software, "software-projects");
-populateProjects(data.projects.android, "android-projects");
-populateProjects(data.projects.freelance, "freelance-projects");
+populateProjects(data.projects.vrfe, "vrfe");
 
-populateExp_Edu(data.experience, "experience");
-populateExp_Edu(data.education, "education");
+// populateExp_Edu(data.experience, "experience");
+// populateExp_Edu(data.education, "education");
 
 populateLinks(data.footer, "footer");
