@@ -58,17 +58,13 @@ export default {
 	projects: {
 		vrfe: [
 			{
-				projectName: "Virtual Reality Field Experiences",
 				image: "images/bryson-profile-pic.png",
 				summary:
 					"test.",
 				preview: "",
 				techStack: [
-					"Django",
-					"SQLite",
-					"Bootstrap",
-					"JavaScript",
-					"Heroku",
+					"Unity (C#)",
+					"Autodesk Maya"
 				],
 			},
 		],
@@ -114,11 +110,23 @@ export default {
 	// ],
 	footer: [
 		{
-			label: "Dev Profiles",
+			label: "Links",
 			data: [
+				{
+					text: "Linkedin",
+					link: "https://www.linkedin.com/in/bryson-rudolph/",
+				},
 				{
 					text: "GitHub",
 					link: "https://github.com/b-rudo",
+				},
+				{
+					text: "Google Scholar",
+					link: "https://scholar.google.com/citations?user=xI08Sx4AAAAJ&hl=en&oi=ao",
+				},
+				{
+					text: "Research Gate",
+					link: "https://www.researchgate.net/profile/Bryson-Rudolph",
 				},
 			],
 		},
@@ -128,15 +136,6 @@ export default {
 				{
 					text: "Enable Dark/Light Mode",
 					func: "enableDarkMode()",
-				},
-			],
-		},
-		{
-			label: "Social Profiles",
-			data: [
-				{
-					text: "Linkedin",
-					link: "https://www.linkedin.com/in/bryson-rudolph/",
 				},
 			],
 		},
