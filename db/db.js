@@ -87,27 +87,43 @@ export default {
 	// 		icon: "heartbeat",
 	// 	},
 	// ],
-	// education: [
-	// 	{
-	// 		title: "Bachelors in Computer Science and Engineering",
-	// 		duration: "",
-	// 		subtitle: "National Institute of Technology, Warangal",
-	// 		details: [
-	// 			"Qualified GATE-2020.",
-	// 			"Active Competitive Programmer with CodeChef Rating 1841*.",
-	// 			"Received 500+ stars and 300+ forks on GitHub projects.",
-	// 		],
-	// 		tags: [
-	// 			"Data Structures & Algorithms",
-	// 			"Operating Systems",
-	// 			"Database Management System",
-	// 			"Computer Networks",
-	// 			"Compiler Designing",
-	// 			"Cloud Computing",
-	// 		],
-	// 		icon: "graduation-cap",
-	// 	},
-	// ],
+	education: [
+		{
+			title: "Master of Science, Computer Science (Human-Centered Computing)",
+			duration: "2020 - 2021",
+			subtitle: "Clemson University",
+			details: [
+				"GPA: 4.0/4.0",
+			],
+			// tags: [
+			// 	"Data Structures & Algorithms",
+			// 	"Operating Systems",
+			// 	"Database Management System",
+			// 	"Computer Networks",
+			// 	"Compiler Designing",
+			// 	"Cloud Computing",
+			// ],
+			icon: "graduation-cap",
+		},
+		{
+			title: "Bachelors of Science, Computer Science",
+			duration: "2016 - 2020",
+			subtitle: "Clemson University",
+			details: [
+				"Cum Laude",
+			],
+			icon: "graduation-cap",
+		},
+		{
+			title: "Bachelors of Arts, Modern Languages (Spanish)",
+			duration: "2016 - 2020",
+			subtitle: "Clemson University",
+			details: [
+				"Cum Laude",
+			],
+			icon: "graduation-cap",
+		},
+	],
 	footer: [
 		{
 			label: "Links",
