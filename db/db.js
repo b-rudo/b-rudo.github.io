@@ -95,14 +95,9 @@ export default {
 			details: [
 				"GPA: 4.0/4.0",
 			],
-			// tags: [
-			// 	"Data Structures & Algorithms",
-			// 	"Operating Systems",
-			// 	"Database Management System",
-			// 	"Computer Networks",
-			// 	"Compiler Designing",
-			// 	"Cloud Computing",
-			// ],
+			tags: [
+				"test",
+			],
 			icon: "graduation-cap",
 		},
 		{
@@ -112,6 +107,9 @@ export default {
 			details: [
 				"Cum Laude",
 			],
+			tags: [ 
+				"test"
+			],
 			icon: "graduation-cap",
 		},
 		{
@@ -120,6 +118,9 @@ export default {
 			subtitle: "Clemson University",
 			details: [
 				"Cum Laude",
+			],
+			tags: [
+				"Test"
 			],
 			icon: "graduation-cap",
 		},
