@@ -125,6 +125,20 @@ export default {
 			icon: "graduation-cap",
 		},
 	],
+	awards: {
+		congressional: [
+			{
+				image: "images/bryson-profile-pic.png",
+				summary:
+					"The highest honor for young adults in the U.S. for exemplary voluntary public service.",
+				preview: "https://www.congressionalaward.org/",
+				techStack: [
+					"AmeriCorps NCCC",
+					"2022",
+				],
+			},
+		],
+	},
 	footer: [
 		{
 			label: "Links",
