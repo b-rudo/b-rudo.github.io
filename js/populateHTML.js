@@ -293,6 +293,6 @@ function getElement(tagName,className) {
 populateProjects(data.projects.vrfe, "vrfe");
 
 // populateExp_Edu(data.experience, "experience");
-// populateExp_Edu(data.education, "education");
+populateExp_Edu(data.education, "education");
 
 populateLinks(data.footer, "footer");

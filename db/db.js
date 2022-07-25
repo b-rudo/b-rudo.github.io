@@ -139,25 +139,60 @@ export default {
 			},
 		],
 	},
+	// footer: [
+	// 	{
+	// 		label: "Links",
+	// 		data: [
+	// 			{
+	// 				text: "Linkedin",
+	// 				link: "https://www.linkedin.com/in/bryson-rudolph/",
+	// 			},
+	// 			{
+	// 				text: "GitHub",
+	// 				link: "https://github.com/b-rudo",
+	// 			},
+	// 			{
+	// 				text: "Google Scholar",
+	// 				link: "https://scholar.google.com/citations?user=xI08Sx4AAAAJ&hl=en&oi=ao",
+	// 			},
+	// 			{
+	// 				text: "Research Gate",
+	// 				link: "https://www.researchgate.net/profile/Bryson-Rudolph",
+	// 			},
+	// 		],
+	// 	},
+	// 	{
+	// 		label: "Resources",
+	// 		data: [
+	// 			{
+	// 				text: "Enable Dark/Light Mode",
+	// 				func: "enableDarkMode()",
+	// 			},
+	// 		],
+	// 	},
+	// 	{
+	// 		label: "copyright-text",
+	// 		data: [
+	// 			"Website template by Vinay Somawat.",
+	// 			"&copy; 2022"
+	// 		],
+	// 	},
+	// ],
 	footer: [
 		{
-			label: "Links",
+			label: "Dev Profiles",
 			data: [
 				{
-					text: "Linkedin",
-					link: "https://www.linkedin.com/in/bryson-rudolph/",
+					text: "Stackoverflow",
+					link: "https://stackoverflow.com/users/8461233/vinay-somawat",
 				},
 				{
 					text: "GitHub",
-					link: "https://github.com/b-rudo",
+					link: "https://github.com/vinaysomawat",
 				},
 				{
-					text: "Google Scholar",
-					link: "https://scholar.google.com/citations?user=xI08Sx4AAAAJ&hl=en&oi=ao",
-				},
-				{
-					text: "Research Gate",
-					link: "https://www.researchgate.net/profile/Bryson-Rudolph",
+					text: "LeetCode",
+					link: "https://leetcode.com/somawatvinay/",
 				},
 			],
 		},
@@ -168,13 +203,38 @@ export default {
 					text: "Enable Dark/Light Mode",
 					func: "enableDarkMode()",
 				},
+				{
+					text: "Print this page",
+					func: "window.print()",
+				},
+				{
+					text: "Clone this page",
+					link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+				},
+			],
+		},
+		{
+			label: "Social Profiles",
+			data: [
+				{
+					text: "Linkedin",
+					link: "https://www.linkedin.com/in/vinaysomawat/",
+				},
+				{
+					text: "Twitter",
+					link: "https://twitter.com/thesigmakid",
+				},
+				{
+					text: "Buy me a coffee",
+					link: "https://www.buymeacoffee.com/r194dME8y",
+				},
 			],
 		},
 		{
 			label: "copyright-text",
 			data: [
-				"Website template by Vinay Somawat.",
-				"&copy; 2022"
+				"Made with &hearts; by Vinay Somawat.",
+				"&copy; No Copyrights. Feel free to use this template."
 			],
 		},
 	],
