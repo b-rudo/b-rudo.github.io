@@ -96,7 +96,7 @@ export default {
 				"GPA: 4.0/4.0",
 			],
 			tags: [
-				"test",
+				
 			],
 			icon: "graduation-cap",
 		},
@@ -108,7 +108,7 @@ export default {
 				"Cum Laude",
 			],
 			tags: [ 
-				"test"
+				
 			],
 			icon: "graduation-cap",
 		},
@@ -118,9 +118,10 @@ export default {
 			subtitle: "Clemson University",
 			details: [
 				"Cum Laude",
+				"Additional coursework completed at Universidad Blas Pascal, Argentina (2017)"
 			],
 			tags: [
-				"Test"
+				
 			],
 			icon: "graduation-cap",
 		},
@@ -139,60 +140,25 @@ export default {
 			},
 		],
 	},
-	// footer: [
-	// 	{
-	// 		label: "Links",
-	// 		data: [
-	// 			{
-	// 				text: "Linkedin",
-	// 				link: "https://www.linkedin.com/in/bryson-rudolph/",
-	// 			},
-	// 			{
-	// 				text: "GitHub",
-	// 				link: "https://github.com/b-rudo",
-	// 			},
-	// 			{
-	// 				text: "Google Scholar",
-	// 				link: "https://scholar.google.com/citations?user=xI08Sx4AAAAJ&hl=en&oi=ao",
-	// 			},
-	// 			{
-	// 				text: "Research Gate",
-	// 				link: "https://www.researchgate.net/profile/Bryson-Rudolph",
-	// 			},
-	// 		],
-	// 	},
-	// 	{
-	// 		label: "Resources",
-	// 		data: [
-	// 			{
-	// 				text: "Enable Dark/Light Mode",
-	// 				func: "enableDarkMode()",
-	// 			},
-	// 		],
-	// 	},
-	// 	{
-	// 		label: "copyright-text",
-	// 		data: [
-	// 			"Website template by Vinay Somawat.",
-	// 			"&copy; 2022"
-	// 		],
-	// 	},
-	// ],
 	footer: [
 		{
-			label: "Dev Profiles",
+			label: "Links",
 			data: [
 				{
-					text: "Stackoverflow",
-					link: "https://stackoverflow.com/users/8461233/vinay-somawat",
+					text: "Linkedin",
+					link: "https://www.linkedin.com/in/bryson-rudolph/",
 				},
 				{
 					text: "GitHub",
-					link: "https://github.com/vinaysomawat",
+					link: "https://github.com/b-rudo",
 				},
 				{
-					text: "LeetCode",
-					link: "https://leetcode.com/somawatvinay/",
+					text: "Google Scholar",
+					link: "https://scholar.google.com/citations?user=xI08Sx4AAAAJ&hl=en&oi=ao",
+				},
+				{
+					text: "Research Gate",
+					link: "https://www.researchgate.net/profile/Bryson-Rudolph",
 				},
 			],
 		},
@@ -203,38 +169,13 @@ export default {
 					text: "Enable Dark/Light Mode",
 					func: "enableDarkMode()",
 				},
-				{
-					text: "Print this page",
-					func: "window.print()",
-				},
-				{
-					text: "Clone this page",
-					link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
-				},
-			],
-		},
-		{
-			label: "Social Profiles",
-			data: [
-				{
-					text: "Linkedin",
-					link: "https://www.linkedin.com/in/vinaysomawat/",
-				},
-				{
-					text: "Twitter",
-					link: "https://twitter.com/thesigmakid",
-				},
-				{
-					text: "Buy me a coffee",
-					link: "https://www.buymeacoffee.com/r194dME8y",
-				},
 			],
 		},
 		{
 			label: "copyright-text",
 			data: [
-				"Made with &hearts; by Vinay Somawat.",
-				"&copy; No Copyrights. Feel free to use this template."
+				"Website template by Vinay Somawat.",
+				"&copy; 2022"
 			],
 		},
 	],
