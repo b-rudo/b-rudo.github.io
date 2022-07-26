@@ -293,7 +293,7 @@ function getElement(tagName,className) {
 // This breaks footer and education section currently if uncommented
 // populateProjects(data.projects.vrfe, "vrfe");
 
-// populateExp_Edu(data.experience, "experience");
+populateExp_Edu(data.experience, "experience");
 populateExp_Edu(data.education, "education");
 
 populateLinks(data.footer, "footer");
