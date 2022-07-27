@@ -111,7 +111,7 @@ export default {
 			],
 			tags: [
 				"Teamwork",
-				"Object-Oriented Programming",
+				"OOP Principles",
 				"Intuitve UIs",
 				"Multi-Platform Builds",
 				"Basic 3D Modeling",
