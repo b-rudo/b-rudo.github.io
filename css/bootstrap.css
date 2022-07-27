@@ -1898,7 +1898,9 @@ pre code {
 	}
 }
 table {
-	background-color: transparent;
+	background-color: #7da1bf;
+	border: 1px solid black;
+	empty-cells: hide;
 }
 
 caption {
@@ -1909,7 +1911,13 @@ caption {
 }
 
 th {
-	text-align: left;
+	text-align: center;
+	border: 1px solid black;
+}
+
+td{
+	text-align: center;
+	border: 1px solid black;
 }
 
 .table {
