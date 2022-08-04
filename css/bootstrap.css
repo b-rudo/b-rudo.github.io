@@ -105,6 +105,15 @@ img {
 	border: 0;
 }
 
+.zoomableImg > img {
+    transition:transform 0.25s ease;
+}
+
+.zoomableImg > img:hover {
+    -webkit-transform:scale(2);
+    transform:scale(2);
+}
+
 svg:not(:root) {
 	overflow: hidden;
 }

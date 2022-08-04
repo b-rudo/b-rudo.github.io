@@ -114,7 +114,7 @@ export default {
 				"OOP Principles",
 				"Intuitve UIs",
 				"Multi-Platform Builds",
-				"Basic 3D Modeling",
+				"Basic 3D Modeling and Sculpting",
 				"Polygonal Decimation",
 				"Culling",
 				"Performance Optimizations",
