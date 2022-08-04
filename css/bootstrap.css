@@ -107,6 +107,7 @@ img {
 
 .zoomableImg > img {
     transition:transform 0.25s ease;
+	z-index: 1100;
 }
 
 .zoomableImg > img:hover {
@@ -292,6 +293,7 @@ th {
 	}
 
 	.navbar {
+		z-index: 1100;
 		display: none;
 	}
 
