@@ -107,7 +107,7 @@ export default {
 				"Optimized app to run on low-end mobile devices",
 				"On-boarded and trained two additional developers",
 				"Primarily used the Unity Game Engine (C#), Maya, and Substance Painter",
-				"<a href=\"/projects.html#vrfe-section\">[Click here for more information about the project, including photos]</a>"
+				"<a href=\"/projects.html#vrfe-section\">[Click here for more info, including photos]</a>"
 			],
 			tags: [
 				"Teamwork",
