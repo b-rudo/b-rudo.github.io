@@ -115,6 +115,10 @@ img {
     transform:scale(2);
 }
 
+.borderedImg > img {
+	border: 2px solid #542E22;
+}
+
 svg:not(:root) {
 	overflow: hidden;
 }
