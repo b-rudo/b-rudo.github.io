@@ -78,10 +78,9 @@ export default {
 				"Worked on and lived with a permanent nine-person team as we traveled the country assisting a wide variety of nonprofits",
 				"Designed and implemented team activities and discussions regarding diversity throughout the program duration",
 				"Volunteered over 1,700 hours in community service across the country",
-
+				"Southern Region Class 27B Team Tide 1",
 				//"Collaborated with the following notable organizations: Sea Island Habitat for Humanity (Johns Island, SC), The Boys and Girls Clubs of Newport County (Newport, RI), The Tennessee Person-Centered Music Program (Nashville, TN), NECHAMA - Jewish Response to Disaster (New Orleans, LA), Pasco County Parks, Recreation, and Natural Resources (Land O' Lakes, FL), and Camp Lee (Anniston, AL).",
-				
-				"Southern Region Class 27B Team Tide 1"
+				"<div class=\"zoomableImg borderedImg\"><img src=\"images/Organizations/VE_Group_Spring_2019.png\" width = \"300\" height = \"169\"><img src=\"images/Organizations/VE_Group_Spring_2019.png\" width = \"300\" height = \"169\"></div>",
 			],
 			tags: [
 				"Leadership",
@@ -180,36 +179,36 @@ export default {
 		],
 	},
 	footer: [
-		{
-			label: "Links",
-			data: [
-				{
-					text: "Linkedin",
-					link: "https://www.linkedin.com/in/bryson-rudolph/",
-				},
-				{
-					text: "GitHub",
-					link: "https://github.com/b-rudo",
-				},
-				{
-					text: "Google Scholar",
-					link: "https://scholar.google.com/citations?user=xI08Sx4AAAAJ&hl=en&oi=ao",
-				},
-				{
-					text: "Research Gate",
-					link: "https://www.researchgate.net/profile/Bryson-Rudolph",
-				},
-			],
-		},
-		{
-			label: "Resources",
-			data: [
-				{
-					text: "Enable Dark/Light Mode",
-					func: "enableDarkMode()",
-				},
-			],
-		},
+		// {
+		// 	label: "Links",
+		// 	data: [
+		// 		{
+		// 			text: "Linkedin",
+		// 			link: "https://www.linkedin.com/in/bryson-rudolph/",
+		// 		},
+		// 		{
+		// 			text: "GitHub",
+		// 			link: "https://github.com/b-rudo",
+		// 		},
+		// 		{
+		// 			text: "Google Scholar",
+		// 			link: "https://scholar.google.com/citations?user=xI08Sx4AAAAJ&hl=en&oi=ao",
+		// 		},
+		// 		{
+		// 			text: "Research Gate",
+		// 			link: "https://www.researchgate.net/profile/Bryson-Rudolph",
+		// 		},
+		// 	],
+		// },
+		// {
+		// 	label: "Resources",
+		// 	data: [
+		// 		{
+		// 			text: "Enable Dark/Light Mode",
+		// 			func: "enableDarkMode()",
+		// 		},
+		// 	],
+		// },
 		{
 			label: "copyright-text",
 			data: [

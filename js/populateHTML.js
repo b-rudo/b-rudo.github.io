@@ -285,14 +285,6 @@ function getElement(tagName,className) {
 	return item;
 }
 
-
-// populateSkills(data.skills, "skills");
-
-// fetchBlogsFromMedium();
-
-// This breaks footer and education section currently if uncommented
-// populateProjects(data.projects.vrfe, "vrfe");
-
 populateExp_Edu(data.experience, "experience");
 populateExp_Edu(data.education, "education");
 
