@@ -80,7 +80,7 @@ export default {
 				"Volunteered over 1,700 hours in community service across the country",
 				"Southern Region Class 27B Team Tide 1",
 				//"Collaborated with the following notable organizations: Sea Island Habitat for Humanity (Johns Island, SC), The Boys and Girls Clubs of Newport County (Newport, RI), The Tennessee Person-Centered Music Program (Nashville, TN), NECHAMA - Jewish Response to Disaster (New Orleans, LA), Pasco County Parks, Recreation, and Natural Resources (Land O' Lakes, FL), and Camp Lee (Anniston, AL).",
-				"<div class=\"zoomableImg borderedImg\"><img src=\"images/AmeriCorps/AmeriCorps_Muck_and_Gut.png\" width = \"175\" height = \"175\"><img src=\"images/AmeriCorps/AmeriCorps_Roof_Work.png\" width = \"175\" height = \"175\"><img src=\"images/AmeriCorps/AmeriCorps_Childcare.png\" width = \"175\" height = \"175\"></div>",
+				"<div class=\"zoomableImg borderedImg\"><img src=\"images/AmeriCorps/AmeriCorps_Teamwork.png\" width = \"175\" height = \"175\"><img src=\"images/AmeriCorps/AmeriCorps_Muck_and_Gut.png\" width = \"175\" height = \"175\"><img src=\"images/AmeriCorps/AmeriCorps_Roof_Work.png\" width = \"175\" height = \"175\"><img src=\"images/AmeriCorps/AmeriCorps_Childcare.png\" width = \"175\" height = \"175\"><img src=\"images/AmeriCorps/AmeriCorps_Chainsaw.png\" width = \"175\" height = \"175\"><img src=\"images/AmeriCorps/AmeriCorps_Award.png\" width = \"175\" height = \"175\"></div>",
 			],
 			tags: [
 				"Leadership",
@@ -106,7 +106,8 @@ export default {
 				"Optimized app to run on low-end mobile devices",
 				"On-boarded and trained two additional developers",
 				"Primarily used the Unity Game Engine (C#), Maya, and Substance Painter",
-				"<a href=\"/projects.html#vrfe-section\">[Click here for more info, including photos]</a>"
+				"<a href=\"/projects.html#vrfe-section\">[Click here for more info, including more photos]</a>",
+				"<div class=\"zoomableImg borderedImg\"><img src=\"images/VRFE/VRFE_Acid_Test.gif\" width = \"275\" height = \"175\"><img src=\"images/VRFE/VRFE_MobileHMD.jpg\" width = \"200\" height = \"175\"></div>"
 			],
 			tags: [
 				"Teamwork",
