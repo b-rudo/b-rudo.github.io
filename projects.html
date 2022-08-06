@@ -35,6 +35,23 @@
    </head>
 
    <body>
+
+      <!-- Check for dark mode -->
+      <script>
+         var element = document.body;
+
+         if (localStorage.getItem("dark-mode") === null) {
+            localStorage.setItem('dark-mode', false);
+         }
+
+         if(localStorage.getItem('dark-mode') == "true") {
+            element.classList.add("dark-mode");
+         }
+         else{
+            element.classList.remove("dark-mode");
+         }
+      </script>
+
       <div id="colorlib-page">
          <div class="container-wrap">
             <a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"

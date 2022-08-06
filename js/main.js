@@ -346,7 +346,19 @@ Accordion2.prototype.dropdown = function (e) {
 
 var accordion2 = new Accordion2($("#accordion2"), false);
 
-function enableDarkMode() {
+function toggleDarkMode() {
+	var inDarkMode = false;
 	var element = document.body;
-	element.classList.toggle("dark-mode");
+
+	if (element.classList.contains("dark-mode"))
+	{
+		element.classList.remove("dark-mode");
+	}
+	else 
+	{
+		element.classList.add("dark-mode");
+		inDarkMode = true;
+	}
+	
+	localStorage.setItem('dark-mode', inDarkMode);
 }
