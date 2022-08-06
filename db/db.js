@@ -76,6 +76,8 @@ export default {
 			subtitle: "Corps Member (Assistant Team Leader; Diversity in Service Point of Contact)",
 			details: [
 				"Worked on and lived with a permanent nine-person team as we traveled the country assisting a wide variety of nonprofits",
+				"Exercised leadership and conflict resolution skills daily in dynamic environments",
+				"Acquired and sharpened skills in various new areas, from mucking and gutting homes to conducting music therapy sessions for nursing home residents with Alzheimer's",
 				"Designed and implemented team activities and discussions regarding diversity throughout the program duration",
 				"Volunteered over 1,700 hours in community service across the country",
 				"Southern Region Class 27B Team Tide 1",

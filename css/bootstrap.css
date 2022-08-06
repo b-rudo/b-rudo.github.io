@@ -116,7 +116,7 @@ img {
 }
 
 .borderedImg > img {
-	border: 2px solid #542E22;
+	border: 2px solid #8E4B3A;
 }
 
 svg:not(:root) {
@@ -4867,7 +4867,7 @@ a.label:focus {
 	vertical-align: middle;
 	white-space: nowrap;
 	text-align: center;
-	background-color: #542E22;
+	background-color: #8E4B3A;
 	border-radius: 10px;
 }
 .badge:empty {
