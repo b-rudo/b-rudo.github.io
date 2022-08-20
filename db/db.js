@@ -147,7 +147,7 @@ export default {
 			duration: "2016 - 2020",
 			subtitle: "Clemson University",
 			details: [
-				"Cum Laude",
+				"<i>Cum laude</i>",
 			],
 			tags: [ 
 				
@@ -159,7 +159,7 @@ export default {
 			duration: "2016 - 2020",
 			subtitle: "Clemson University",
 			details: [
-				"Cum Laude",
+				"<i>Cum laude</i>",
 				"Additional coursework completed at Universidad Blas Pascal, Argentina (2017)"
 			],
 			tags: [
