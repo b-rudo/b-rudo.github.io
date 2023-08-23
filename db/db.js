@@ -71,6 +71,28 @@ export default {
 	},
 	experience: [
 		{
+			title: "University of Miami",
+			duration: "Oct 2022 - Pres",
+			subtitle: "Extended Reality Software Engineer",
+			details: [
+				"Manage multiple concurrent university-funded XR projects and their student teams from concept to finished product",
+				"Aide in project development through software engineering, UX/UI design, and 3D asset creation/modification",
+				"Collaborate closely with principle investigators throughout the project life cycle",
+			],
+			tags: [
+				"Leadership",
+				"Project Management",
+				"XR Development",
+				"XR Design",
+				"3D Modeling",
+				"OOP Principles",
+				"Multi-Platform Build Targets",
+				"Performance Optimizations",
+				"Version Control"
+			],
+			icon: "group",
+		},
+		{
 			title: "AmeriCorps NCCC",
 			duration: "Aug 2021 - May 2022 (10 mos)",
 			subtitle: "Corps Member (Assistant Team Leader; Diversity in Service Point of Contact)",
@@ -116,7 +138,7 @@ export default {
 				"Teamwork",
 				"OOP Principles",
 				"Intuitve UIs",
-				"Multi-Platform Builds",
+				"Multi-Platform Build Targets",
 				"Basic 3D Modeling and Sculpting",
 				"Polygonal Decimation",
 				"Culling",
@@ -173,7 +195,7 @@ export default {
 			{
 				image: "images/bryson-profile-pic.png",
 				summary:
-					"The highest honor for young adults in the U.S. for exemplary voluntary public service.",
+					"One of the highest honors for young adults in the U.S. for exemplary voluntary public service.",
 				preview: "https://www.congressionalaward.org/",
 				techStack: [
 					"AmeriCorps NCCC",
